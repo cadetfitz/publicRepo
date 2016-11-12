@@ -1,0 +1,6 @@
+Solution for MoreSuspicious Traffic
+
+UDP packets sent in groups of 3 or 6 corresponding to dot or dash in Morse Code
+Time packets are sent determines grouping (0.5 sec gap or 1.5 sec gap)
+
+Write-up by 0x90r00t : https://0x90r00t.com/2016/11/09/hack-the-vote-2016-forensics-300-more-suspicious-traffic-write-up/
